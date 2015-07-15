@@ -1,0 +1,22 @@
+C:\Users\myacht\Desktop\BVI\Source Code\BVIPM\obj\Debug\BVIPM.exe
+C:\Users\myacht\Desktop\BVI\Source Code\BVIPM\obj\Debug\BVIPM.pdb
+C:\Users\myacht\Desktop\BVI\Source Code\BVIPM\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\myacht\Desktop\BVI\Source Code\BVIPM\obj\Debug\BVIPM.FrmMessage.resources
+C:\Users\myacht\Desktop\BVI\Source Code\BVIPM\obj\Debug\BVIPM.FrmScreenCaptureView.resources
+C:\Users\myacht\Desktop\BVI\Source Code\BVIPM\obj\Debug\BVIPM.Password.resources
+C:\Users\myacht\Desktop\BVI\Source Code\BVIPM\obj\Debug\BVIPM.vbproj.GenerateResource.Cache
+C:\Users\myacht\Desktop\BVI\Source Code\BVIPM\bin\BVIPM.exe
+C:\Users\myacht\Desktop\BVI\Source Code\BVIPM\bin\BVIPM.pdb
+C:\Users\myacht\Desktop\BVI\Source Code\BVIPM\bin\BVIPM.xml
+C:\Users\myacht\Desktop\BVI\Source Code\BVIPM\obj\Debug\BVIPM.xml
+D:\LiveApps\BVIProgramManager\BVIPM Source Code\BVIPM\obj\Debug\BVIPM.exe
+D:\LiveApps\BVIProgramManager\BVIPM Source Code\BVIPM\obj\Debug\BVIPM.xml
+D:\LiveApps\BVIProgramManager\BVIPM Source Code\BVIPM\obj\Debug\BVIPM.pdb
+D:\LiveApps\BVIProgramManager\BVIPM Source Code\BVIPM\bin\BVIPM.exe
+D:\LiveApps\BVIProgramManager\BVIPM Source Code\BVIPM\bin\BVIPM.pdb
+D:\LiveApps\BVIProgramManager\BVIPM Source Code\BVIPM\bin\BVIPM.xml
+D:\LiveApps\BVIProgramManager\BVIPM Source Code\BVIPM\obj\Debug\ResolveAssemblyReference.cache
+D:\LiveApps\BVIProgramManager\BVIPM Source Code\BVIPM\obj\Debug\BVIPM.FrmMessage.resources
+D:\LiveApps\BVIProgramManager\BVIPM Source Code\BVIPM\obj\Debug\BVIPM.FrmScreenCaptureView.resources
+D:\LiveApps\BVIProgramManager\BVIPM Source Code\BVIPM\obj\Debug\BVIPM.Password.resources
+D:\LiveApps\BVIProgramManager\BVIPM Source Code\BVIPM\obj\Debug\BVIPM.vbproj.GenerateResource.Cache

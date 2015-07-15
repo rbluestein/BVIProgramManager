@@ -1,0 +1,39 @@
+C:\Users\myacht\Desktop\BVI\Source Code\BVIPM_Local\bin\BVIPM_Local.exe
+C:\Users\myacht\Desktop\BVI\Source Code\BVIPM_Local\bin\BVIPM_Local.xml
+C:\Users\myacht\Desktop\BVI\Source Code\BVIPM_Local\obj\Release\ResolveAssemblyReference.cache
+C:\Users\myacht\Desktop\BVI\Source Code\BVIPM_Local\obj\Release\BVIPM_Local.TextBoxColumnExtended.resources
+C:\Users\myacht\Desktop\BVI\Source Code\BVIPM_Local\obj\Release\BVIPM_Local.FrmIRTS.resources
+C:\Users\myacht\Desktop\BVI\Source Code\BVIPM_Local\obj\Release\BVIPM_Local.FrmMain.resources
+C:\Users\myacht\Desktop\BVI\Source Code\BVIPM_Local\obj\Release\BVIPM_Local.FrmMessage.resources
+C:\Users\myacht\Desktop\BVI\Source Code\BVIPM_Local\obj\Release\BVIPM_Local.FrmScreenCaptureView.resources
+C:\Users\myacht\Desktop\BVI\Source Code\BVIPM_Local\obj\Release\BVIPM_Local.FrmTroubleCall.resources
+C:\Users\myacht\Desktop\BVI\Source Code\BVIPM_Local\obj\Release\BVIPM_Local.Password.resources
+C:\Users\myacht\Desktop\BVI\Source Code\BVIPM_Local\obj\Release\BVIPM_Local.vbproj.GenerateResource.Cache
+C:\Users\myacht\Desktop\BVI\Source Code\BVIPM_Local\obj\Release\BVIPM_Local.exe
+C:\Users\myacht\Desktop\BVI\Source Code\BVIPM_Local\obj\Release\BVIPM_Local.xml
+D:\LiveApps\BVIPMNew\BVIPM Source Code\BVIPM_Local\obj\Release\BVIPM_Local.exe
+D:\LiveApps\BVIPMNew\BVIPM Source Code\BVIPM_Local\obj\Release\BVIPM_Local.xml
+D:\LiveApps\BVIPMNew\BVIPM Source Code\BVIPM_Local\bin\BVIPM_Local.exe
+D:\LiveApps\BVIPMNew\BVIPM Source Code\BVIPM_Local\bin\BVIPM_Local.xml
+D:\LiveApps\BVIPMNew\BVIPM Source Code\BVIPM_Local\obj\Release\ResolveAssemblyReference.cache
+D:\LiveApps\BVIPMNew\BVIPM Source Code\BVIPM_Local\obj\Release\BVIPM_Local.TextBoxColumnExtended.resources
+D:\LiveApps\BVIPMNew\BVIPM Source Code\BVIPM_Local\obj\Release\BVIPM_Local.FrmIRTS.resources
+D:\LiveApps\BVIPMNew\BVIPM Source Code\BVIPM_Local\obj\Release\BVIPM_Local.FrmMain.resources
+D:\LiveApps\BVIPMNew\BVIPM Source Code\BVIPM_Local\obj\Release\BVIPM_Local.FrmMessage.resources
+D:\LiveApps\BVIPMNew\BVIPM Source Code\BVIPM_Local\obj\Release\BVIPM_Local.FrmScreenCaptureView.resources
+D:\LiveApps\BVIPMNew\BVIPM Source Code\BVIPM_Local\obj\Release\BVIPM_Local.FrmTroubleCall.resources
+D:\LiveApps\BVIPMNew\BVIPM Source Code\BVIPM_Local\obj\Release\BVIPM_Local.Password.resources
+D:\LiveApps\BVIPMNew\BVIPM Source Code\BVIPM_Local\obj\Release\BVIPM_Local.vbproj.GenerateResource.Cache
+D:\LiveApps\BVIProgramManager\BVIPM Source Code\BVIPM_Local\obj\Release\BVIPM_Local.exe
+D:\LiveApps\BVIProgramManager\BVIPM Source Code\BVIPM_Local\obj\Release\BVIPM_Local.xml
+D:\LiveApps\BVIProgramManager\BVIPM Source Code\BVIPM_Local\bin\BVIPM_Local.exe
+D:\LiveApps\BVIProgramManager\BVIPM Source Code\BVIPM_Local\bin\BVIPM_Local.xml
+D:\LiveApps\BVIProgramManager\BVIPM Source Code\BVIPM_Local\obj\Release\ResolveAssemblyReference.cache
+D:\LiveApps\BVIProgramManager\BVIPM Source Code\BVIPM_Local\obj\Release\BVIPM_Local.TextBoxColumnExtended.resources
+D:\LiveApps\BVIProgramManager\BVIPM Source Code\BVIPM_Local\obj\Release\BVIPM_Local.FrmIRTS.resources
+D:\LiveApps\BVIProgramManager\BVIPM Source Code\BVIPM_Local\obj\Release\BVIPM_Local.FrmMain.resources
+D:\LiveApps\BVIProgramManager\BVIPM Source Code\BVIPM_Local\obj\Release\BVIPM_Local.FrmMessage.resources
+D:\LiveApps\BVIProgramManager\BVIPM Source Code\BVIPM_Local\obj\Release\BVIPM_Local.FrmScreenCaptureView.resources
+D:\LiveApps\BVIProgramManager\BVIPM Source Code\BVIPM_Local\obj\Release\BVIPM_Local.FrmTroubleCall.resources
+D:\LiveApps\BVIProgramManager\BVIPM Source Code\BVIPM_Local\obj\Release\BVIPM_Local.Password.resources
+D:\LiveApps\BVIProgramManager\BVIPM Source Code\BVIPM_Local\obj\Release\BVIPM_Local.vbproj.GenerateResource.Cache

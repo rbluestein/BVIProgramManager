@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "BVIPM", "BVIPM.vbproj", "{6279396D-2BF9-4979-A2CA-984C27D7033E}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{6279396D-2BF9-4979-A2CA-984C27D7033E}.Debug.ActiveCfg = Debug|.NET
+		{6279396D-2BF9-4979-A2CA-984C27D7033E}.Debug.Build.0 = Debug|.NET
+		{6279396D-2BF9-4979-A2CA-984C27D7033E}.Release.ActiveCfg = Release|.NET
+		{6279396D-2BF9-4979-A2CA-984C27D7033E}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

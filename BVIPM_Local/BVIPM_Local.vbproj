@@ -1,0 +1,192 @@
+﻿<Project DefaultTargets="Build" ToolsVersion="3.5" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectType>Local</ProjectType>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{11199043-3674-4F23-960C-E803736EF662}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ApplicationIcon>
+    </ApplicationIcon>
+    <AssemblyKeyContainerName>
+    </AssemblyKeyContainerName>
+    <AssemblyName>BVIPM_Local</AssemblyName>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
+    <AssemblyOriginatorKeyMode>None</AssemblyOriginatorKeyMode>
+    <DefaultClientScript>JScript</DefaultClientScript>
+    <DefaultHTMLPageLayout>Grid</DefaultHTMLPageLayout>
+    <DefaultTargetSchema>IE50</DefaultTargetSchema>
+    <DelaySign>false</DelaySign>
+    <OutputType>WinExe</OutputType>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionStrict>Off</OptionStrict>
+    <RootNamespace>BVIPM_Local</RootNamespace>
+    <StartupObject>BVIPM_Local.FrmMain</StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <MyType>WindowsFormsWithCustomSubMain</MyType>
+    <OldToolsVersion>0.0</OldToolsVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>BVIPM_Local.xml</DocumentationFile>
+    <BaseAddress>285212672</BaseAddress>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>
+    </DefineConstants>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <DebugSymbols>true</DebugSymbols>
+    <Optimize>false</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>1</WarningLevel>
+    <NoWarn>42016,42017,42018,42019,42032</NoWarn>
+    <DebugType>full</DebugType>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>BVIPM_Local.xml</DocumentationFile>
+    <BaseAddress>285212672</BaseAddress>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>
+    </DefineConstants>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <DebugSymbols>false</DebugSymbols>
+    <Optimize>true</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>1</WarningLevel>
+    <NoWarn>42016,42017,42018,42019,42032</NoWarn>
+    <DebugType>none</DebugType>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Interop.ADODB">
+      <Name>Interop.ADODB</Name>
+      <HintPath>bin\Interop.ADODB.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.CDO">
+      <Name>Interop.CDO</Name>
+      <HintPath>bin\Interop.CDO.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <Name>System</Name>
+    </Reference>
+    <Reference Include="System.Data">
+      <Name>System.Data</Name>
+    </Reference>
+    <Reference Include="System.DirectoryServices">
+      <Name>System.DirectoryServices</Name>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Name>System.Drawing</Name>
+    </Reference>
+    <Reference Include="System.Windows.Forms">
+      <Name>System.Windows.Forms</Name>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Name>System.XML</Name>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Data" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AppSettings.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="AssemblyInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="DBase.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="DGColumns.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Enviro.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="FrmIRTS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMessage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmScreenCaptureView.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTroubleCall.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Launcher.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Module1.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Password.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ScreenCapture.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="UtilClass.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Content Include="BlueCircle.PNG" />
+    <Content Include="Globe.png" />
+    <Content Include="TroubleCall.png" />
+    <Content Include="VersionHistory.txt" />
+    <EmbeddedResource Include="DGColumns.resx">
+      <DependentUpon>DGColumns.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmIRTS.resx">
+      <DependentUpon>FrmIRTS.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMain.resx">
+      <DependentUpon>FrmMain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMessage.resx">
+      <DependentUpon>FrmMessage.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmScreenCaptureView.resx">
+      <DependentUpon>FrmScreenCaptureView.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTroubleCall.resx">
+      <DependentUpon>FrmTroubleCall.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Password.resx">
+      <DependentUpon>Password.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\app.manifest" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+</Project>
